@@ -1,1 +1,1 @@
-I like UNIX and C
+# UNIX is fun!
